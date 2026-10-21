@@ -1,0 +1,7 @@
+out/
+cache/
+broadcast/
+.env
+*.key
+lib/forge-std/
+lib/openzeppelin-contracts/
